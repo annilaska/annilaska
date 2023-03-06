@@ -10,5 +10,3 @@
 <a >https://drive.google.com/file/d/1BAtpos420eFfviO-gW0p6H2E0ZwMjuFs/view?usp=sharing</a>
 </div>
                                                                                  
-🛠️ Languages and Tools :
-React  Material UI  Redux   CSS  HTML  JavaScript  Sass  Git TypeScript
