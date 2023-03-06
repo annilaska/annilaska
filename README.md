@@ -8,8 +8,8 @@
 <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" height="40"/></h2>
     
 <a href="https://drive.google.com/file/d/1BAtpos420eFfviO-gW0p6H2E0ZwMjuFs/view?usp=sharing">
-		<img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/>
+	<img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/>
 </a>                                                                                 
-<a >https://drive.google.com/file/d/1BAtpos420eFfviO-gW0p6H2E0ZwMjuFs/view?usp=sharing</a>
+
 </div>
                                                                                  
