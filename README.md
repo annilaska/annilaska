@@ -7,6 +7,9 @@
 <h2 >Look at my resume
 <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" height="40"/></h2>
 
+<img src="https://media.giphy.com/media/VIWIoLiKYVtoIx1eu4/giphy.gif" height="40"/>
+                                                                         
+                                                                               
 <a >https://drive.google.com/file/d/1BAtpos420eFfviO-gW0p6H2E0ZwMjuFs/view?usp=sharing</a>
 </div>
                                                                                  
