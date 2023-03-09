@@ -1,5 +1,4 @@
 <div id="header" align="center">
-<img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1599053973/lara3mjogjaeehlzm3fd.jpg"  height="350" />
 <h1>Hi there, I'm Ann
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Front-end developer from Russia</h3>
