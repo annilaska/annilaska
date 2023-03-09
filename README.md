@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-	<img src="https://ak.picdn.net/shutterstock/videos/5131757/thumb/2.jpg" width="100%"  height="250"/>
+	<img src="https://ak.picdn.net/shutterstock/videos/5131757/thumb/2.jpg" width="70%"  height="250"/>
 <h1>Hi there, I'm Ann
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Front-end developer</h3>
