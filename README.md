@@ -1,4 +1,6 @@
-<div id="header" align="center">
+
+<div id="header" align="center" background="blue">
+	<img src="https://ak.picdn.net/shutterstock/videos/5131757/thumb/2.jpg" width="50%" />
 <h1>Hi there, I'm Ann
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Front-end developer from Russia</h3>
