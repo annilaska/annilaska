@@ -9,7 +9,7 @@
 <h2 >Look at my resume
 <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" height="40"/></h2>
     
-<a href="https://drive.google.com/file/d/1t4xqsPrhPwEF-rtqv8NC5DX58WFqs_ZD/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1J3LNZ8awkfAuLHT9ydwWl-7Vo46ec4p4/view?usp=share_link">
 	<img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/>
 </a>                                                                                 
 
