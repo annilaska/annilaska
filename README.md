@@ -19,7 +19,9 @@ _tester skills and tools:_
 
 * Stepik
 
-  ><a href="https://stepik.org/cert/2535636"><img src="https://img.shields.io/badge/tester-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/></a>  
+  ><a href="https://stepik.org/cert/2535636"><img src="https://img.shields.io/badge/tester-gray?style=for-the-badge&logoColor=white" alt="GitHub"/></a>  
 
+* Stepik
 
+  ><a href="https://stepik.org/cert/2620752"><img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logoColor=white" alt="GitHub"/></a>  
                                                                                  
