@@ -6,6 +6,6 @@
 <h3>Front-end developer/ QA angineer</h3>
 <h3>developer skills and tools: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Git, Material UI, REST API, Axios, Figma</h3>
 <h3>tester skills and tools: Chack-list, Test Case, Bug Reporting, Postman, Swagger, DevTools, SQL, REST API, JSON</h3>
-                                                                
+<h2>My certificates:</h2>                                             
 </div>
                                                                                  
