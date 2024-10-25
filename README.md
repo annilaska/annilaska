@@ -3,6 +3,8 @@
 	<img src="https://ak.picdn.net/shutterstock/videos/5131757/thumb/2.jpg" width="70%"  height="250"/>
 <h1>Hi there, I'm Ann
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+ #-------
 <h3>Front-end developer/ QA angineer</h3>
 <h3>developer skills and tools: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Git, Material UI, REST API, Axios, Figma</h3>
 	
