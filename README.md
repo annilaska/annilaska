@@ -30,9 +30,9 @@ _tester skills and tools:_
   ><a href="https://drive.google.com/file/d/1WB3WGyoQXxTpN7PUE23s1yoByckPTiqu/view?usp=drive_link"><img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/></a>
 
 
-_My projects:_
--
->https://annilaska.github.io/my-canban-board/
+<h2>My projects:</h2> 
+
+><a href="https://annilaska.github.io/my-canban-board/">Сanban-board</a>
 
 
                                                                                  
