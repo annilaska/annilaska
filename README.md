@@ -34,5 +34,7 @@ _tester skills and tools:_
 
 ><a href="https://annilaska.github.io/my-canban-board/">Сanban-board</a>
 
+><a href="https://annilaska.github.io/landing_page/">Landing_page</a>
+
 
                                                                                  
