@@ -21,9 +21,6 @@ _tester skills and tools:_
 
   ><a href="https://drive.google.com/file/d/13jQhRry2g7LLRx5ruOolJtloJU9CHBja/view?usp=drive_link"><img src="https://img.shields.io/badge/frontendDeveloper-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/></a>  
 
-* Stepik
-
-  ><a href="https://drive.google.com/file/d/14ofc-o4gUGwGVQ0scc66HglQfKhkVH-I/view?usp=drive_link"><img src="https://img.shields.io/badge/tester-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/></a>  
 
 * Stepik
 
