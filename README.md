@@ -15,16 +15,7 @@ _developer skills and tools:_
 _tester skills and tools:_
 -
 > Chack-list, Test Case, Bug Reporting, Postman, Swagger, DevTools, SQL, REST API, JSON
-<h2>My certificates:</h2> 
 
-* SkillFactory
-
-  ><a href="https://drive.google.com/file/d/13jQhRry2g7LLRx5ruOolJtloJU9CHBja/view?usp=drive_link"><img src="https://img.shields.io/badge/frontendDeveloper-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/></a>  
-
-
-* Stepik
-
-  ><a href="https://drive.google.com/file/d/1WB3WGyoQXxTpN7PUE23s1yoByckPTiqu/view?usp=drive_link"><img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/></a>
 
 
 <h2>My projects:</h2> 
