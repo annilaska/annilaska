@@ -4,7 +4,7 @@
 <img src="https://ak.picdn.net/shutterstock/videos/5131757/thumb/2.jpg" width="70%"  height="250"/>
 <h1>Hi there, I'm Ann
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>QA angineer/Front-end developer</h3>
+<h3>QA engineer/Front-end developer</h3>
 </div>
 
 _tester skills and tools:_
